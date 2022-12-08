@@ -1,0 +1,15 @@
+C:\Users\home\source\repos\onion-demo\src\Core\onion.Application\bin\Debug\net7.0\onion.Application.deps.json
+C:\Users\home\source\repos\onion-demo\src\Core\onion.Application\bin\Debug\net7.0\onion.Application.dll
+C:\Users\home\source\repos\onion-demo\src\Core\onion.Application\bin\Debug\net7.0\onion.Application.pdb
+C:\Users\home\source\repos\onion-demo\src\Core\onion.Application\bin\Debug\net7.0\onion.Domain.dll
+C:\Users\home\source\repos\onion-demo\src\Core\onion.Application\bin\Debug\net7.0\onion.Domain.pdb
+C:\Users\home\source\repos\onion-demo\src\Core\onion.Application\obj\Debug\net7.0\onion.Application.csproj.AssemblyReference.cache
+C:\Users\home\source\repos\onion-demo\src\Core\onion.Application\obj\Debug\net7.0\onion.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\home\source\repos\onion-demo\src\Core\onion.Application\obj\Debug\net7.0\onion.Application.AssemblyInfoInputs.cache
+C:\Users\home\source\repos\onion-demo\src\Core\onion.Application\obj\Debug\net7.0\onion.Application.AssemblyInfo.cs
+C:\Users\home\source\repos\onion-demo\src\Core\onion.Application\obj\Debug\net7.0\onion.Application.csproj.CoreCompileInputs.cache
+C:\Users\home\source\repos\onion-demo\src\Core\onion.Application\obj\Debug\net7.0\onion.Application.csproj.CopyComplete
+C:\Users\home\source\repos\onion-demo\src\Core\onion.Application\obj\Debug\net7.0\onion.Application.dll
+C:\Users\home\source\repos\onion-demo\src\Core\onion.Application\obj\Debug\net7.0\refint\onion.Application.dll
+C:\Users\home\source\repos\onion-demo\src\Core\onion.Application\obj\Debug\net7.0\onion.Application.pdb
+C:\Users\home\source\repos\onion-demo\src\Core\onion.Application\obj\Debug\net7.0\ref\onion.Application.dll

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "p4X7odMM0qDRlFjoNIFWjXFeZTt7l0PlgN6jyIFMu/s=",
+  "Source": "onion.WebApi",
+  "BasePath": "_content/onion.WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
